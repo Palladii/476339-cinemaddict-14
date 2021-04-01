@@ -1,6 +1,6 @@
 # Проект «Киноман»
 
-* Студент: [Oksana Palladii](https://up.htmlacademy.ru/ecmascript/14/user/476339).
+* Студент: [Oksana Palladii](https://htmlacademy.ru/profile/id476339).
 * Наставник: [Артём Рудов] (https://htmlacademy.ru/profile/artrudov).
 
 ---
